@@ -1,5 +1,8 @@
 # gk-installer
 
+> The code in this repo is deprecated  
+> See [sblock](https://github.com/ddosakura/sblock)  
+
 golang 程序安装器
 
 ## TODO
